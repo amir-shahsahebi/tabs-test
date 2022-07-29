@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/dist
+/dist/output.css
 /.pnp
 .pnp.js
 
